@@ -1,3 +1,4 @@
+# Source: https://github.com/cheran-senthil/PyRival/blob/master/pyrival/graphs/scc.py
 """
 Given a directed graph, find_SCC returns a list of lists containing
 the strongly connected components in topological order.

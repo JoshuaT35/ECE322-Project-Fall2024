@@ -1,3 +1,5 @@
+# Source: https://github.com/cheran-senthil/PyRival/blob/master/pyrival/graphs/euler_walk.py
+
 def euler_walk(n, adj):
     deg = [0] * n
 
